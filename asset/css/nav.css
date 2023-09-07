@@ -21,19 +21,27 @@ nav{
 .login, .logout{
     text-decoration: none;
     color: black;
-    background-color: rgb(46, 46, 46);
     font-size: 40px;
     font-family: 'Roboto', sans-serif;
-    padding: 0px 15px;
 }
-.login:hover, .logout:hover{
-    background-color: black;
-    color: white;
+.login:hover, .logout:hover, .navA:hover{
+    color: rgb(0, 204, 255);
 }
 .navslah{
     color: black;
     background-color: rgb(46, 46, 46);
     font-size: 40px;
     font-family: 'Roboto', sans-serif;
-    margin: 0px 10px;
+}
+.navUl{
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.navA{
+    font-size: 40px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: black;
 }

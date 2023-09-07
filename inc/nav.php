@@ -19,12 +19,12 @@
                         <img src="http://localhost/shop_anilexs/asset/img/shop.png" alt="" class="imgNav">
                     </a>
                 </div>
-                <ul>
-                    <li><a href=""></a></li>
-                    <li><a href=""></a></li>
-                    <li><a href=""></a></li>
-                    <li><a href=""></a></li>
-                    <li><a href=""></a></li>
+                <ul class="navUl">
+                    <li><a href="http://localhost/shop_anilexs/accueil.php" class="navA">Accueil</a></li>
+                    <li><a href="http://localhost/shop_anilexs/" class="navA">Avis</a></li>
+                    <li><a href="http://localhost/shop_anilexs/" class="navA">Proof</a></li>
+                    <li><a href="http://localhost/shop_anilexs/" class="navA">V-buck</a></li>
+                    <li><a href="http://localhost/shop_anilexs/shop.php" class="navA">Shop</a></li>
                 </ul>
                 <div>
                     <a href="http://localhost/shop_anilexs/inscription.php"class="login">inscription</a>
